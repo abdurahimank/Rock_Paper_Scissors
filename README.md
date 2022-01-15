@@ -17,7 +17,7 @@ wins. Shapes are
 * paper wins over rock,
 * scissors defeats paper.
 
-![RPS](https://en.wikipedia.org/wiki/Rock_paper_scissors#/media/File:Rock-paper-scissors.svg)
+![img](https://github.com/abdurahimank/Rock_Paper_Scissors/blob/main/images/image_2.png)
 
 ##2. Game with unlimited shapes
 In this we can add the shapes as much as we wish.
@@ -35,6 +35,7 @@ in it (first go the options following the <br>chosen one in the original list, a
 * So, in this "new" list, the first half of the options will be defeating the "chosen" <br>option, and the second half will 
 get beaten by it.
 
+![img](https://github.com/abdurahimank/Rock_Paper_Scissors/blob/main/images/image_1.PNG)
 
 ####References
 1. [Wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors)
